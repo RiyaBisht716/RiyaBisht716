@@ -64,11 +64,10 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 ---
 
 
-
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RiyaBisht716?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/riyabisht2005?theme=dark&font=baloo&ext=contest" />
 </p>
 
 <p align="center">
