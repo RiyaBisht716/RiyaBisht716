@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I’m Riya Bisht 👩‍💻</h1>
 
-
 <p align="center">
   I learn by building logic, breaking code, and fixing it again.
 </p>
@@ -9,15 +8,50 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&height=30&color=6A5ACD&lines=Java+%7C+DSA+Learner;Problem+Solving+Mindset;Learning+in+Public;One+Commit+at+a+Time" />
 </p>
 
+---
+
 ### 🧠 About Me
 I’m a curious learner who enjoys understanding how things work under the hood.  
 Currently focused on **Java and Data Structures**, I like breaking down problems, experimenting with solutions, and learning from mistakes along the way.
 
 I believe strong fundamentals and consistency matter more than rushing toward results.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.https://www.linkedin.com/in/riya-bisht-aiml/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyabisht.cseaiml@gmail.com) 
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode,idea" />
+
+</p>
+
+- 💻 **Languages:** Java, C++
+- 🧩 **Core Focus:** Data Structures & Algorithms
+- 🛠 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- 🌱 **Currently Learning:** Problem Solving & Competitive Programming
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  
+<a href="https://linkedin.com/in/riya-bisht-aiml" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:riyabisht.cseaiml@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+</p>
+
+<p align="center">
+  💼 LinkedIn • 📧 Email
+</p>
+
+---
 
 # 📊 GitHub Stats:
 
@@ -26,7 +60,20 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 ![](https://nirzak-streak-stats.vercel.app/?user=RiyaBisht716&theme=neon&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaBisht716&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RiyaBisht716?theme=dark&font=baloo&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=RiyaBisht716&theme=tokyonight" />
+</p>
+
+---
 
 ## 📈 Activity Graph
 
@@ -37,7 +84,3 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 <p align="center">
   <sub>✨ Small progress every day beats rare motivation.</sub>
 </p>
-
-
-
-
