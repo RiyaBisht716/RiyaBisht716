@@ -63,6 +63,8 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 
 ---
 
+
+
 ## 🏆 Competitive Programming
 
 <p align="center">
@@ -70,9 +72,8 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=RiyaBisht716&theme=tokyonight" />
+  <sub>🚀 Consistently improving problem-solving skills one problem at a time.</sub>
 </p>
-
 ---
 
 ## 📈 Activity Graph
