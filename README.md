@@ -66,13 +66,11 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 
 ## 🏆 Competitive Programming
 
-<p align="center">
+<p>
   <img src="https://leetcard.jacoblin.cool/riyabisht2005?theme=dark&font=baloo&ext=contest" />
 </p>
 
-<p align="center">
-  <sub>🚀 Consistently improving problem-solving skills one problem at a time.</sub>
-</p>
+
 ---
 
 ## 📈 Activity Graph
