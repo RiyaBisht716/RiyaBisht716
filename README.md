@@ -26,7 +26,7 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 
 </p>
 
-- 💻 **Languages:** Java, C++
+- 💻 **Languages:** Java, python
 - 🧩 **Core Focus:** Data Structures & Algorithms
 - 🛠 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 - 🌱 **Currently Learning:** Problem Solving & Competitive Programming
@@ -45,11 +45,20 @@ I believe strong fundamentals and consistency matter more than rushing toward re
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
+<a href="https://leetcode.com/u/riyabisht2005/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+</a>
+
+
+
+<a href="https://codolio.com/profile/Riya-Bisht-Aiml" target="_blank">
+  <img src="https://skillicons.dev/icons?i=codolio" height="40" />
+</a>
+
 </p>
 
-<p align="center">
-  💼 LinkedIn • 📧 Email
-</p>
+
+
 
 ---
 
