@@ -22,7 +22,7 @@ I believe strong fundamentals and consistency matter more than rushing toward re
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,idea" />
 
 </p>
 
