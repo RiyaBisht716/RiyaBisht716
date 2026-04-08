@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:434343,100:7f5af0&text=Riya%20Bisht&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20Engineer%20|%20ML%20Engineer%20|%20Data%20Analyst&descAlignY=62&fontFamily=Poppins"/>
 
-
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=RiyaBisht716&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
 
