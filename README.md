@@ -11,7 +11,7 @@
 # Hi 👋, I'm Riya Bisht
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=520&height=32&lines=Riay+Bisht;Aspiring+Software+Engineer;Strong+in+DSA+%7C+Problem+Solving;Building+Scalable+Applications"
+    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=520&height=32&lines=Riya+Bisht;Aspiring+Software+Engineer;Strong+in+DSA+%7C+Problem+Solving;Building+Scalable+Applications"
     alt="Typing SVG"
   />
 </p>
