@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Riya %20Bisht&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20Engineer%20|%20Data%20Analyst%20|%20Full%20ML%20Engineer%20&descAlignY=62"/>
 
 
-<img src="https://komarev.com/ghpvc/?username=RiayBisht716&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RiyaBisht716&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
 
 </div>
 
