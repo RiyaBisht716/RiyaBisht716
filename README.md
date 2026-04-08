@@ -1,8 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141e30,50:243b55,100:4b6cb7&text=Riya%20Bisht&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20Engineer%20|%20ML%20Engineer%20|%20Data%20Analyst&descAlignY=62&fontFamily=Poppins"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Riya%20Bisht&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20Engineer%20|%20Data%20Analyst%20|%20ML%20Engineer%20&descAlignY=62"/>
 
 
 <br/><br/>
