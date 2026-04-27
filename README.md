@@ -1,104 +1,189 @@
 <div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Riya%20Bisht&fontAlign=50&fontAlignY=38&fontSize=60&desc=Software%20Engineer%20|%20Data%20Analyst%20|%20ML%20Engineer%20&descAlignY=62"/>
-
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RiyaBisht716&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Riya%20Bisht&fontAlign=50&fontAlignY=40&fontSize=70&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20ML%20Engineer&descAlign=50&descAlignY=65&descSize=25"/>
 </div>
-
-# Hi 👋, I'm Riya Bisht
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=520&height=32&lines=Riya+Bisht;Aspiring+Software+Engineer;Strong+in+DSA+%7C+Problem+Solving;Building+Scalable+Applications"
-    alt="Typing SVG"
-  />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&height=30&color=6A5ACD&lines=Java+%7C+DSA+Learner;Problem+Solving+Mindset;Learning+in+Public;One+Commit+at+a+Time" />
-</p>
-
----
-# 💫 About Me:
-Passionate about coding and problem-solving, with strong foundations in Data Structures, Algorithms, OOP, DBMS, OS, and Computer Networks. Skilled in C, java, JavaScript, and Python. Pursuing Bachelor of Technology degree in Artificial Intelligence and Machine Learning at Noida Institute of Engineering and Technology (NIET),2027, exploring Machine Learning, and strengthening analytical skills through LeetCode practice for technical interviews.
-
-
-
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-bisht-aiml/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyabishtcseaiml@gmail.com) 
-
-<h1 align="center">Connect with me:</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/riya-bisht-aiml/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-   <a href="https://codolio.com/profile/Riya-Bisht-Aiml" target="blank">
-    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="pratham" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-
-</p>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-
-
-# 📊 GitHub Stats:
-
-<p align="left">
-  
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RiyaBisht716&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RiyaBisht716&layout=compact&langs_count=8&theme=algolia"/>
-
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=RiyaBisht716&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=RiyaBisht716&theme=neon&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaBisht716&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-
-
-
-### Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaBisht716&theme=tokyo-night&area=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=RiyaBisht716&label=Profile%20Views&color=7f5af0&style=flat-square"/>
 </div>
 
-<br/>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7f5af0&center=true&vCenter=true&width=600&height=50&lines=Passionate+Full-Stack+Developer;DSA+%7C+Problem+Solving+Expert;AI%2FML+Enthusiast;Crafting+Scalable+Solutions" alt="Typing Animation"/>
+</h2>
+
+---
+
+## 👋 About Me
+
+I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technology in **Artificial Intelligence and Machine Learning** at **NIET, 2027**. Passionate about building scalable applications and solving complex problems through code.
+
+### 🎯 What I Do
+- **Full-Stack Development**: Building web applications with modern frameworks
+- **Data Science & ML**: Exploring machine learning algorithms and data analysis
+- **DSA & Problem Solving**: Grinding LeetCode for technical excellence
+- **Open Source**: Contributing and learning in public
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
+
+### **Frontend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</div>
+
+### **Backend & APIs**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+</div>
+
+### **Databases**
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</div>
+
+### **Data Science & ML**
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiyaBisht716&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaBisht716&layout=compact&theme=algolia&langs_count=8&bg_color=0D1117&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RiyaBisht716&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaBisht716&theme=algolia&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  <a href="https://leetcode.com/u/riyabisht2005/">
+    <img height="300em" src="https://leetcard.jacoblin.cool/riyabisht2005?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Artificial Intelligence and Machine Learning**
+- **Institution**: Noida Institute of Engineering and Technology (NIET)
+- **Expected Graduation**: 2027
+- **Focus Areas**: DSA, Machine Learning, Full-Stack Development
+
+**Key Skills**:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riya-bisht-aiml/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:riyabishtcseaiml@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/RiyaBisht716" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codolio.com/profile/Riya-Bisht-Aiml" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-FF6B6B?style=for-the-badge&logo=codementor&logoColor=white" alt="Codolio"/>
   </a>
 </div>
 
+---
 
-## 🏆 Competitive Programming Stats
-<p>
-<a href ="https://leetcode.com/u/riyabisht2005/">
-<img height = "280em" src = "https://leetcard.jacoblin.cool/riyabisht2005?theme=dark&font=PT%20Serif&ext=contest">
-</a>
-</p>
+## 💡 Philosophy
 
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "Code is not just about solving problems; it's about creating solutions that matter."
+
+### My Learning Journey
+- 📚 Continuous learner with a passion for full-stack development
+- 🎯 Focused on mastering DSA through consistent problem-solving
+- 🔥 Building projects and contributing to open source
+- 🚀 One commit at a time, aiming for excellence
+
+---
+
+## 📈 Latest Activity
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaBisht716&theme=algolia&hide_border=true" alt="Recent Activity" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:7f5af0&height=120&section=footer"/>
+---
 
-</div
+## 🎯 What's Next?
+
+- [ ] Master advanced DSA patterns
+- [ ] Build full-stack SaaS application
+- [ ] Contribute to major open-source projects
+- [ ] Explore AI/ML model deployment
+- [ ] Technical article writing
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:c4b5fd&height=120&section=footer&text=Happy%20Coding!&fontSize=20&fontColor=fff"/>
+</div>
+
+---
+
+<div align="center">
+  
+  ### Show ⭐️ if you find this interesting!
+  
+</div>
 
