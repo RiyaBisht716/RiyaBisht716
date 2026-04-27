@@ -17,7 +17,7 @@
 I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technology in **Artificial Intelligence and Machine Learning** at **NIET, 2027**. Passionate about building scalable applications and solving complex problems through code.
 
 ### 🎯 What I Do
-- **Full-Stack Development**: Building web applications with modern frameworks
+
 - **Data Science & ML**: Exploring machine learning algorithms and data analysis
 - **DSA & Problem Solving**: Grinding LeetCode for technical excellence
 - **Open Source**: Contributing and learning in public
