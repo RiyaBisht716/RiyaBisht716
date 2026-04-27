@@ -17,7 +17,7 @@
 I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technology in **Artificial Intelligence and Machine Learning** at **NIET, 2027**. Passionate about building scalable applications and solving complex problems through code.
 
 ### 🎯 What I Do
-
+- **Full-Stack Development**: Building web applications with modern frameworks
 - **Data Science & ML**: Exploring machine learning algorithms and data analysis
 - **DSA & Problem Solving**: Grinding LeetCode for technical excellence
 - **Open Source**: Contributing and learning in public
@@ -86,16 +86,16 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiyaBisht716&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaBisht716&layout=compact&theme=algolia&langs_count=8&bg_color=0D1117&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/RiyaBisht716">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiyaBisht716&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/RiyaBisht716">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaBisht716&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RiyaBisht716&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaBisht716&theme=algolia&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=RiyaBisht716&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </div>
 
 ---
@@ -104,8 +104,14 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 
 <div align="center">
   <a href="https://leetcode.com/u/riyabisht2005/">
-    <img height="300em" src="https://leetcard.jacoblin.cool/riyabisht2005?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
+    <img height="280em" src="https://leetcard.jacoblin.cool/riyabisht2005?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
   </a>
+</div>
+
+### 📊 Coding Activity
+<div align="center">
+  <img src="https://img.shields.io/badge/Dynamic%20Problem%20Solver-LeetCode-FFA500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Algorithms-blue?style=for-the-badge"/>
 </div>
 
 ---
@@ -115,7 +121,7 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 **Bachelor of Technology in Artificial Intelligence and Machine Learning**
 - **Institution**: Noida Institute of Engineering and Technology (NIET)
 - **Expected Graduation**: 2027
-- **Focus Areas**: DSA, Machine Learning, Data Analysis
+- **Focus Areas**: DSA, Machine Learning, Full-Stack Development
 
 **Key Skills**:
 - Data Structures & Algorithms
@@ -150,17 +156,17 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 > "Code is not just about solving problems; it's about creating solutions that matter."
 
 ### My Learning Journey
-- 📚 Continuous learner with a passion for ML developer
+- 📚 Continuous learner with a passion for full-stack development
 - 🎯 Focused on mastering DSA through consistent problem-solving
 - 🔥 Building projects and contributing to open source
 - 🚀 One commit at a time, aiming for excellence
 
 ---
 
-## 📈 Latest Activity
+## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaBisht716&theme=algolia&hide_border=true" alt="Recent Activity" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaBisht716&theme=tokyo-night&hide_border=true&area=true&point=58a6ff&line=58a6ff&bg_color=0d1117" alt="Contribution Activity"/>
 </div>
 
 ---
@@ -186,4 +192,3 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
   ### Show ⭐️ if you find this interesting!
   
 </div>
-
