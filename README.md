@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7f5af0&center=true&vCenter=true&width=600&height=50&lines=Passionate+Full-Stack+Developer;DSA+%7C+Problem+Solving+Expert;AI%2FML+Enthusiast;Crafting+Scalable+Solutions" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7f5af0&center=true&vCenter=true&width=600&height=50&lines=Passionate+ML-Engineer;DSA+%7C+Problem+Solving+Expert;AI%2FML+Enthusiast;Crafting+Scalable+Solutions" alt="Typing Animation"/>
 </h2>
 
 ---
