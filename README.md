@@ -115,7 +115,7 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 **Bachelor of Technology in Artificial Intelligence and Machine Learning**
 - **Institution**: Noida Institute of Engineering and Technology (NIET)
 - **Expected Graduation**: 2027
-- **Focus Areas**: DSA, Machine Learning, Full-Stack Development
+- **Focus Areas**: DSA, Machine Learning, Data Analysis
 
 **Key Skills**:
 - Data Structures & Algorithms
@@ -150,7 +150,7 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 > "Code is not just about solving problems; it's about creating solutions that matter."
 
 ### My Learning Journey
-- 📚 Continuous learner with a passion for full-stack development
+- 📚 Continuous learner with a passion for ML developer
 - 🎯 Focused on mastering DSA through consistent problem-solving
 - 🔥 Building projects and contributing to open source
 - 🚀 One commit at a time, aiming for excellence
