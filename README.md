@@ -17,7 +17,7 @@
 I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technology in **Artificial Intelligence and Machine Learning** at **NIET, 2027**. Passionate about building scalable applications and solving complex problems through code.
 
 ### 🎯 What I Do
-- **Full-Stack Development**: Building web applications with modern frameworks
+
 - **Data Science & ML**: Exploring machine learning algorithms and data analysis
 - **DSA & Problem Solving**: Grinding LeetCode for technical excellence
 - **Open Source**: Contributing and learning in public
@@ -95,7 +95,7 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RiyaBisht716&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=RiyaBisht716&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -174,7 +174,6 @@ I'm a **Software Engineer** and **Data Analyst** pursuing a Bachelor of Technolo
 ## 🎯 What's Next?
 
 - [ ] Master advanced DSA patterns
-- [ ] Build full-stack SaaS application
 - [ ] Contribute to major open-source projects
 - [ ] Explore AI/ML model deployment
 - [ ] Technical article writing
